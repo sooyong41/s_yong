@@ -59,7 +59,7 @@
 								</div>
 							</div>
 							<div class="danger-position">
-							<p><strong class="text-danger">※ 창문 좀 달아주세요 서비스 제공을 위해서 필요한 최소한의 개인정보이므로 동의를 해 주셔야 서비스를 이용하실 수 있습니다.</strong></p>
+							<p><strong class="text-danger">※ plzWindow 서비스 제공을 위해서 필요한 최소한의 개인정보이므로 동의를 해 주셔야 서비스를 이용하실 수 있습니다.</strong></p>
 							</div>
 						</div>
 
